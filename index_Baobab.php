@@ -1,8 +1,8 @@
 <html>
   <?php include "head.inc.php" ?>
   <body>
+    <?php include "entete.inc.php" ?>
     <div class="container">
-      <?php include "entete.inc.php" ?>
       <div class="row">
         <div class="col s12"><h1>Le Baobab</h1></div>
         <div class="col s4">
