@@ -10,7 +10,7 @@
 				<div class="collection">
 					<a href="/index_Baobab.php" class="collection-item">Baobab</a>
 					<a href="/index_Sapin.php" class="collection-item">Sapin</a>
-					<a href="/index_Eucaliptus.php" class="collection-item">Eucaliptus</a>
+					<a href="/index_Eucalyptus.php" class="collection-item">Eucalyptus</a>
 					<a href="/index_Érable.php" class="collection-item">Érable</a>
 					<a href="/index_Ginkgo.php" class="collection-item">Ginkgo</a>
 					<a href="/index_Cerisier_du_japon.php" class="collection-item">Cerisier du japon</a>

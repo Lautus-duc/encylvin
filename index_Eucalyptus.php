@@ -4,7 +4,7 @@
     <?php include "entete.inc.php" ?>
     <div class="container">
       <div class="row">
-        <div class="col s12"><h1>L'Eucaliptus</h1></div>
+        <div class="col s12"><h1>L'Eucalyptus</h1></div>
         <div class="col s4">
           <img src="eucalyptus_1.jpg" class="responsive-img">
         </div>
