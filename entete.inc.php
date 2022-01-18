@@ -2,7 +2,7 @@
   <div  class="card-panel green lighten-2">
     <div class="container">
       <h1 class="green-text text-darken-4">
-        <a href="/index.php">
+        <a href="./index.php">
           <img src="logo_Encylvin.jpg" style="width:70px;height:90px;"> 
         </a>
         ncylvin
