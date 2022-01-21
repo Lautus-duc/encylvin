@@ -6,7 +6,7 @@
       <div class="row">
         <div class="col s12"><h1>Le Baobab</h1></div>
         <div class="col s4">
-          <img src="baobab_1.jpg" class="responsive-img">
+          <img src="./images/baobab_1.jpg" class="responsive-img">
         </div>
         <div class="col s8">
           <p>Le baobab est un genre de plantes de la famille des Malvaceae comprenant 9 espèces différentes, natifs de Madagascar, d’Afrique et d’Australie.</br>

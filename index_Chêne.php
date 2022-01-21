@@ -6,7 +6,7 @@
       <div class="row">
         <div class="col s12"><h1>Le chène</h1></div>
         <div class="col s4">
-          <img src="chene_1.jpg" class="responsive-img">
+          <img src="./images/chene_1.jpg" class="responsive-img">
         </div>
         <div class="col s8">
           <p>Chêne est le nom vernaculaire de nombreuses espèces d'arbres et d'arbustes appartenant au genre Quercus, et à certains genres apparentés de la famille des fagacées, notamment Cyclobalanopsis et Lithocarpus.

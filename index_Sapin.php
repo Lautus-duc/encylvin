@@ -6,7 +6,7 @@
       <div class="row">
         <div class="col s12"><h1>Le sapin</h1></div>
         <div class="col s4">
-        <img src="sapin_1.jpg" class="responsive-img">
+        <img src="./images/sapin_1.jpg" class="responsive-img">
         </div>
         <div class="col s8">
           <p>Le sapin est un genre de plantes vivaces, au feuillage persistant de la famille des Pinaceae. Originaire des régions tempérées de l’hémisphère nord, le sapin pousse partout dans le monde dans les régions tempérées ou froides.</p>

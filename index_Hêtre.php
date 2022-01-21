@@ -6,7 +6,7 @@
       <div class="row">
         <div class="col s12"><h1>L'hêtre</h1></div>
         <div class="col s4">
-          <img src="hetre_1.jpg" class="responsive-img">
+          <img src="./images/hetre_1.jpg" class="responsive-img">
         </div>
         <div class="col s8">
           <p>Le Hêtre commun, Fagus sylvatica, couramment désigné simplement comme le hêtre est une espèce d'arbres à feuilles caduques, indigène d'Europe, appartenant à la famille des Fagaceae, tout comme le chêne et le châtaignier.</p>

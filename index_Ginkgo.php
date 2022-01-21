@@ -6,7 +6,7 @@
       <div class="row">
         <div class="col s12"><h1>Le ginkgo</h1></div>
         <div class="col s4">
-          <img src="ginkgo_1.jpg" class="responsive-img">
+          <img src="./images/ginkgo_1.jpg" class="responsive-img">
         </div>
         <div class="col s8">
           <p>Le ginkgo est un arbre dioïque dont les individus mâles portent des bouquets de cônes de pollen semblables à des chatons et dont les individus femelles possèdent de longs pédoncules portant à leur extrémité un ovule, nu (sans être enveloppé dans un ovaire), sans pétales.</p>

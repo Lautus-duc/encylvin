@@ -6,7 +6,7 @@
       <div class="row">
         <div class="col s12"><h1>Le cerisier</h1></div>
         <div class="col s4">  
-        <img src="cerisier_japon_1.jpg" class="responsive-img">
+        <img src="./images/cerisier_japon_1.jpg" class="responsive-img" alt="Cerisier du Japon">
         </div>  
         <div class="col s8">
           <p>Un arbre comme le cerisier du japon va apprécier un emplacement ensoleillé. possédera notamment en avril une belle floraison blanche et rose.</p>

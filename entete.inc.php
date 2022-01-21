@@ -3,7 +3,7 @@
     <div class="container">
       <h1 class="green-text text-darken-4">
         <a href="./index.php">
-          <img src="logo_Encylvin.jpg" style="width:70px;height:90px;"> 
+          <img src="./images/logo_Encylvin.jpg" style="width:70px;height:90px;"> 
         </a>
         ncylvin
       </h1>  
@@ -12,7 +12,7 @@
       <a class='dropdown-trigger btn' href='#' data-target='dropdown1'>Menu !</a>
       <!-- Dropdown Structure -->
       <ul id='dropdown1' class='dropdown-content'>
-        <li><a href="#!"><img src="logo_encylvin_menu.jpg" style="width:50px;height:50px;"></a></li>
+        <li><a href="#!"><img src="./images/logo_encylvin_menu.jpg" style="width:50px;height:50px;"></a></li>
         <li><a href="#!">two</a></li>
         <li class="divider" tabindex="-1"></li>
         <li><a href="#!">three</a></li>

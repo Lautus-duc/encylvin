@@ -6,7 +6,7 @@
       <div class="row">
         <div class="col s12"><h1>Le pin</h1></div>
         <div class="col s4">
-          <img src="pin_1.jpg" class="responsive-img">
+          <img src="./images/pin_1.jpg" class="responsive-img">
         </div>
         <div class="col s8">
           <p>Origine</p>

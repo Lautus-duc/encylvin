@@ -6,7 +6,7 @@
       <div class="row">
         <div class="col s12"><h1>L'Érable</h1></div>
         <div class="col s4">
-          <img src="erable_1.jpg" class="responsive-img">
+          <img src="./images/erable_1.jpg" class="responsive-img">
         </div>
         <div class="col s8">
           <p>L’érable est surtout célèbre pour sa feuille qui est l’emblème du Canada. Certaines espèces sont très connues et principalement utilisées pour produire du sirop d’érable, notamment au Canada et aux États-Unis. D’autres espèces sont plutôt destinées à la menuiserie ou à l’ornementation.</p>

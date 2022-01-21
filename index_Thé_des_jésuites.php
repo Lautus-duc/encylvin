@@ -6,7 +6,7 @@
       <div class="row">
         <div class="col s12"><h1>Le thé des jésuites</h1></div>
         <div class="col s4">
-          <img src="the_des_ jesuites_1.jpg" class="responsive-img">
+          <img src="./images/the_des_ jesuites_1.jpg" class="responsive-img">
         </div>
         <div class="col s8">
           <p>Le Maté vert, ou thé des jésuites, est une plante d'Amérique du Sud, aux vertus nombreuses.</p>
