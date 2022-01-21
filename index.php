@@ -11,12 +11,12 @@
 					<a href="./index_Baobab.php" class="collection-item">Baobab</a>
 					<a href="./index_Sapin.php" class="collection-item">Sapin</a>
 					<a href="./index_Eucalyptus.php" class="collection-item">Eucalyptus</a>
-					<a href="./index_Érable.php" class="collection-item">Érable</a>
+					<a href="./index_Erable.php" class="collection-item">Érable</a>
 					<a href="./index_Ginkgo.php" class="collection-item">Ginkgo</a>
 					<a href="./index_Cerisier_du_japon.php" class="collection-item">Cerisier du japon</a>
-					<a href="./index_Chêne.php" class="collection-item">Chêne</a>
-					<a href="./index_Thé_des_jésuites.php" class="collection-item">Thé des jésuites</a>
-					<a href="./index_Hêtre.php" class="collection-item">Hêtre</a>
+					<a href="./index_Chene.php" class="collection-item">Chêne</a>
+					<a href="./index_The_des_jésuites.php" class="collection-item">Thé des jésuites</a>
+					<a href="./index_Hetre.php" class="collection-item">Hêtre</a>
 					<a href="./index_Pin.php" class="collection-item">Pin</a>
 				</div>
 			</div>
