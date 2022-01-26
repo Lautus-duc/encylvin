@@ -13,9 +13,4 @@
           <p>L’eucalyptus se cultive dans des endroits très ensoleillés, mais certaines espèces tolèrent des endroits partiellement ensoleillés. Cette plante s’adapte bien à une variété de sols, secs ou légèrement mouillés, tant que le sol est bien drainé et fertile ; il peut également être argileux ou composé d’humus ou de terreau, voire calcaire.</p>
           <p>L’eucalyptus est une plante sensible au froid, elle ne tolère pas des températures en-dessous de 10 degrés. Elle peut donc se cultiver en France en extérieur dans la région méditerranéenne ou sur le pourtour atlantique. Pour les autres régions, on la cultive alors en intérieur, surtout pendant les mois les plus froids.</p>
         </div> 
-        <!--JavaScript at end of body for optimized loading-->
-        <script type="text/javascript" src="js/materialize.min.js"></script>
-      </div>
-    </div>
-  </body>
-</html>
+				<?php include "foot.inc.php" ?>

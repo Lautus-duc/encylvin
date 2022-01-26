@@ -19,9 +19,4 @@
           <p>Vertus du maté :</p>
           <p>Le maté a de nombreuses vertus et bienfaits pour l'organisme. Ceci est dû au fait qu'il s'agit de la plante ayant le plus de composants connus à ce jour, vitamines et minéraux confondus.</p>
         </div> 
-        <!--JavaScript at end of body for optimized loading-->
-        <script type="text/javascript" src="js/materialize.min.js"></script>
-      </div>
-    </div>
-  </body>
-</html>
+				<?php include "foot.inc.php" ?>

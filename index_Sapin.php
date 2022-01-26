@@ -14,10 +14,4 @@
           <p>Le sapin peut être cultivé partout en France ; c’est une plante très résistante au froid qui peut être planté en pleine terre ou dans des bacs. Toutefois, il est préférable de le cultiver en pleine terre, étant donné la taille qu’il peut atteindre. Une bonne solution est d’utiliser des pots/bacs durant les premières années, puisque c’est une plante à croissance lente, puis de le transplanter en pleine terre pour les années suivantes.</p>
           <p>Le sapin préfère une exposition mi-ensoleillée à ensoleillée car en situation ombragé sa croissance serait encore plus lente." </p>
         </div> 
-        <!--JavaScript at end of body for optimized loading-->
-        <script type="text/javascript" src="js/materialize.min.js"></script>
-      </div>
-    </div>
-  </body>
-</html>
-
+				<?php include "foot.inc.php" ?>

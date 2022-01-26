@@ -15,11 +15,4 @@
           <p>Étymologie et différentes appellations</p>
           <p>Il n'y a pas de mot indo-européen spécifique au chêne, un arbre qui puise ses noms dans des couches linguistiques plus anciennes. Le nom de chêne renvoie ainsi à quatre étymons différents : l'indo-européen *dreu-, *perkʷus et heyǵ-, et le gaulois *cassanos.</p>
         </div> 
-        <!--JavaScript at end of body for optimized loading-->
-        <script type="text/javascript" src="js/materialize.min.js"></script>
-      </div>
-    </div>
-  </body>
-</html>
-
-
+				<?php include "foot.inc.php" ?>

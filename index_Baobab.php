@@ -15,9 +15,4 @@
           <p>Les baobabs peuvent être cultivés en extérieur, plantés en terre ou en pots, si les conditions climatiques sont tropicales ou tempérées chaudes (pas en-dessous de 15 degrés) ; ou alors en intérieur pour certaines espèces dans des pots afin de les protéger du froid durant l’hiver.
           Ces plantes peuvent être cultivées à partir de graines ou à partir de boutures.</p>
         </div> 
-        <!--JavaScript at end of body for optimized loading-->
-        <script type="text/javascript" src="js/materialize.min.js"></script>
-      </div>
-    </div>
-  </body>
-</html>
+				<?php include "foot.inc.php" ?>

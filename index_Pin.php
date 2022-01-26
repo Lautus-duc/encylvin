@@ -20,9 +20,4 @@
           Enfin, les feuilles vertes en forme d’aiguilles sont persistantes, de 3 à plus d’une dizaine d’années selon l’espèce. Elles sont groupées par 2 à 8 aiguilles, toutes issues d’une gaine unique qui peut persister ou tomber.</p>
           <p>Les pins se plairont très bien dans des sols sablonneux ayant un pH très acide, et pourront se contenter d’un sol pauvre. Le semis du pin se fait au printemps, de mars à mai.</p>
         </div> 
-        <!--JavaScript at end of body for optimized loading-->
-        <script type="text/javascript" src="js/materialize.min.js"></script>
-      </div>
-    </div>
-  </body>
-</html>
+				<?php include "foot.inc.php" ?>

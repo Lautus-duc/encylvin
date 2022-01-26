@@ -16,9 +16,4 @@
           <p>Le genre Érable (Acer) est composé d’arbres de la famille des Sapindacées très répandus dans les zones tempérées fraîches et humides, du sud du Canada et des États-Unis en passant par l’Europe jusqu’à la côte pacifique de l’Asie. L’étymologie est complexe puisqu’en France, l’érable vient de l’ancien français acerabulus, composé d’acer, qui signifie aiguille en latin, et bulus qui viendrait du gaulois abalo pour pomme.</p>
           
         </div> 
-        <!--JavaScript at end of body for optimized loading-->
-        <script type="text/javascript" src="js/materialize.min.js"></script>
-      </div>
-    </div>
-  </body>
-</html>
+				<?php include "foot.inc.php" ?>

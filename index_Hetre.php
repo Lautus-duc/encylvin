@@ -13,9 +13,4 @@
           <p>Il est l'une des principales essences constitutives des forêts tempérées caducifoliées d'Europe où on peut le trouver en peuplements exclusifs de hêtraies pures ou le plus souvent associé à d'autres espèces majeures dans des forêts feuillues, principalement avec le Chêne rouvre, ou dans des forêts mixtes avec le sapin blanc ou l'Épicéa commun.</p>
           <p>C'est une essence bioindicatrice d'un climat tempéré humide. Les forestiers en pratiquent de longue date la sylviculture pour produire du bois de futaie principalement destiné à l'ameublement. Il est également utilisé comme source de bois de chauffage, surtout en zone de montagne.</p>
         </div> 
-        <!--JavaScript at end of body for optimized loading-->
-        <script type="text/javascript" src="js/materialize.min.js"></script>
-      </div>
-    </div>
-  </body>
-</html>
+				<?php include "foot.inc.php" ?>
